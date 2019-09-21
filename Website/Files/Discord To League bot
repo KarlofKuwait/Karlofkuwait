@@ -1,0 +1,10 @@
+<h1>Discord To League bot</h1>
+<style>
+html {
+  width: 600px;
+  margin: 0 auto; 
+  font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+h2 {
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+}
+</style>
